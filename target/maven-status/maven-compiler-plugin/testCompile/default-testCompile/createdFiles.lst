@@ -1,0 +1,6 @@
+com\doo\md5server\test\config\UserServiceConfig.class
+com\doo\md5server\test\config\MDFiveServiceConfig.class
+com\doo\md5server\test\server\unittest\MDFIVEServiceUnitTest.class
+com\doo\md5server\test\config\DataSourceConfigTest.class
+com\doo\md5server\test\server\unittest\UserServiceUnitTest.class
+md5server\AppTest.class
